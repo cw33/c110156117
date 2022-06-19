@@ -1,0 +1,5 @@
+list1=input("請輸入值為:").split(" ")
+list1.sort()
+list2=sorted(list1,reverse=True)
+print(list1)
+print(list2)
