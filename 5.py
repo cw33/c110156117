@@ -1,7 +1,6 @@
 
 a=int(input("請輸入階乘值m:"))
-n=1
-b=1
+b=n=1
 while b<=a:
    b=b*n 
    n=n+1
